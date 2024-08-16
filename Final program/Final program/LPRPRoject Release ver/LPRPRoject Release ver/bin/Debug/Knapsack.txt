@@ -1,0 +1,19 @@
+Initial DP Table:
+
+DP Table after processing item 1:
+
+DP Table after processing item 2:
+
+DP Table after processing item 3:
+
+DP Table after processing item 4:
+
+DP Table after processing item 5:
+
+DP Table after processing item 6:
+
+DP Table after processing item 7:
+
+DP Table after processing item 8:
+
+Maximum value that can be obtained: 8

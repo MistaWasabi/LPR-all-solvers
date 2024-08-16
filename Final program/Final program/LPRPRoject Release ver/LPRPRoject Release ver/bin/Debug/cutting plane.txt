@@ -1,0 +1,11 @@
+Initial Tableau:
+
+Tableau after iteration 1:
+Cutting Plane 1: 0, 0, 0, -1, 1
+
+Tableau after iteration 2:
+Cutting Plane 2: 0, 0, 0, -1, 1
+
+Tableau after iteration 3:
+Cutting Plane 3: 0, 0, 0, -1, 1
+Optimal solution found.

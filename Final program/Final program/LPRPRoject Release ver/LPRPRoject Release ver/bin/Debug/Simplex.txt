@@ -1,0 +1,7 @@
+
+Initial Tableau:
+
+Tableau after pivoting:
+
+Tableau after pivoting:
+Optimal solution found.

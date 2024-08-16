@@ -1,0 +1,5 @@
+Starting gradient descent with initial guess: x = 4
+Function: f(x) = 16
+Iteration 0: x = -0,8, f(x) = 0,64
+Iteration 1: x = 0,16, f(x) = 0,0256
+Converged to x = -0,032 with function value f(x) = 0,001024 after 2 iterations.
